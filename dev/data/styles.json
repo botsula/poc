@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "value": {
+        "1": "Informative: Articles are written in a straightforward, factual manner.",
+        "2": "Concise: Articles are written in a brief and concise way.",
+        "3": "Engaging: Articles are written with a conversational tone that engages the reader.",
+        "4": "Current: Articles are focused on current topics and trends.",
+        "5": "Fact-based: Articles are based on facts and research.",
+        "6": "Credible: Sources are cited to ensure the credibility of the content.",
+        "7": "Relevant: Articles provide relevant information to the reader.",
+        "8": "Approachable: Articles are written in an accessible and understandable way.",
+        "9": "Comprehensive: Articles are comprehensive and in-depth.",
+        "10": "Accurate: Articles are accurate and up-to-date."
+      }
+    }
+  ]
+}
