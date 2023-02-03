@@ -5,8 +5,8 @@ import streamlit as st
 
 
 # Set your secret API key
-openai.organization = "org-Hw1PKAJUymy5LvLwZdN1q5wj"
-openai.api_key = "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"
+openai.organization = st.secrets['OPENAI_ORG']
+openai.api_key = st.secrets['OPENAI_API_KEY']
 
 
 def load_json(filename):
