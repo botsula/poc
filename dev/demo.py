@@ -57,7 +57,7 @@ if generate_article_button and st.session_state.chosen_topics:
     # Regulate parameters
     params = {}
     if (st.session_state.style):
-        style = functions.load_json("data/styles.json")['data'][0]['value']
+        style = functions.load_json("dev/data/styles.json")['data'][0]['value']
         params = {
             'length': f'{st.session_state.length} words',
             'text-style': str(style)
